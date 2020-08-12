@@ -1,3 +1,6 @@
+
+![course image](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/fa/fc1b7069b511e39de639278c4f9dba/ExploratoryDataAnalysis.jpg?auto=format&dpr=1&w=100&h=100&fit=clamp)
+
 Questions
 You must address the following questions and tasks in your exploratory analysis. For each question/task you will need to make a single plot. Unless specified, you can use any * * * plotting system in R to make your plot.
 
